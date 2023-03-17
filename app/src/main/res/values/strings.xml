@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="details">Details</string>
+    <string name="back">BACK</string>
+    <string name="typical_image_of_animal">Typical image of animal</string>
+    <string name="capybara_description"> тут могла бути ваша реклама </string>
+    <string name="bobr_description"> а тут реклами не буде</string>
+    <string name="parrot_description"> ловимо папуг) </string>
+</resources>
